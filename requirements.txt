@@ -4,3 +4,5 @@ requests
 numpy 
 streamlit
 langchain
+matplotlib
+
