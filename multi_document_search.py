@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from uuid import uuid4
 from dotenv import load_dotenv
+import matplotlib.pyplot as plt
+
 
 
 
